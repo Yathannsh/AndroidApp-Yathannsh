@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Yathannsh</string>
+    <string name="name">Yathannsh</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_item1">Item 1</string>
+    <string name="title_item2">Item 2</string>
+    <string name="title_item3">Item 3</string>
+    <string name="title_item4">Item 4</string>
+    <string name="github">GitHub</string>
+
+    <string name="click_search_button">Click on the Search Button!</string>
+
+    <string name="custom_layout_with_listview">This is a custom Layout containing a ListView with android:id=\"@android:id/list\"</string>
+    <string name="fragment">Fragment</string>
+    <string name="activity">Activity</string>
+    <string name="fragment_listview">Fragment ListView</string>
+    <string name="fragment_scrollview">Fragment ScrollView</string>
+    <string name="fragment_viewpager">Fragment ViewPager</string>
+    <string name="fragment_viewpager_with_tabs">Fragment ViewPager with Tabs</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in justo consequat, porta ipsum vel, condimentum sapien. In fringilla malesuada vestibulum. Fusce suscipit eros non augue rhoncus placerat a a lorem. In est ipsum, blandit quis eros ut, lobortis porttitor nisi. Quisque purus quam, consectetur et semper eu, sodales vel augue. Suspendisse ultrices nunc nec sem interdum egestas. Aenean ut eros at quam scelerisque tempus. Ut condimentum ullamcorper augue non tempus. Quisque id ligula quam. Ut maximus risus dolor, a volutpat ipsum finibus vel. Aenean in porta lectus, vel aliquet felis. In hac habitasse platea dictumst. Duis interdum mauris ut arcu semper pulvinar.  Quisque quis leo sed elit elementum tincidunt. Aenean interdum augue nulla, vitae maximus tellus consequat sed. Pellentesque volutpat varius elit dignissim dictum. Nulla a vestibulum urna. Fusce a lacus quis nisi scelerisque efficitur vitae ac nibh. Donec luctus sed lectus quis ultrices. Curabitur sagittis, risus et tristique mollis, ipsum felis interdum sapien, non congue eros turpis sit amet leo. Suspendisse potenti. Integer nec urna fringilla, euismod dolor vitae, euismod velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur pharetra consectetur lobortis. Aenean sit amet metus a ligula ultricies laoreet in eu lacus. Donec congue, quam fringilla ultricies finibus, nulla erat ullamcorper tortor, vitae blandit ante massa in est. Quisque tempus porttitor erat id porttitor. Nam dictum non nulla a convallis. Integer sodales lorem lorem, quis vehicula quam luctus sed. Suspendisse et congue ipsum, non aliquet nisi. Vestibulum eu dignissim eros, eget pretium augue. Phasellus placerat nulla sed tempor dignissim. Ut egestas diam nec sem pulvinar gravida. Nulla facilisi. Maecenas tincidunt metus quis massa rhoncus cursus. Curabitur non sapien sed nunc posuere facilisis. Sed vulputate facilisis leo, sed mattis leo efficitur ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sit amet felis sed turpis scelerisque tempus et vel lacus. Curabitur rutrum, dui ac interdum iaculis, neque mauris semper eros, a efficitur enim magna non neque. Duis venenatis turpis vehicula purus rhoncus, et dignissim neque posuere. Etiam pulvinar mauris purus, vel rutrum dolor luctus sit amet. Aliquam convallis nec nisl ut maximus. Suspendisse vitae dignissim mauris. Aenean mauris tortor, aliquam quis dui in, lobortis dictum nisl. Suspendisse quis odio hendrerit, vestibulum elit non, ultricies lorem. Integer bibendum nibh turpis. Nam purus tortor, pulvinar ac nisl ac, dictum ornare odio. Donec viverra dolor at mi tempus aliquet. Integer condimentum, sapien et semper feugiat, nunc nisl egestas lectus, quis mattis metus lacus quis velit. Pellentesque non urna porttitor, bibendum nisl non, ultricies massa. Proin quis mauris ac dui accumsan pharetra. Aliquam erat volutpat. Suspendisse fringilla dolor sed nulla euismod sollicitudin. Pellentesque et arcu feugiat magna facilisis tempor id at leo. Aliquam egestas rhoncus convallis. Quisque vitae dolor elit. Cras eleifend felis mauris, eu sodales lacus imperdiet eget. Donec vulputate tortor ut purus lobortis bibendum. Nulla lectus nunc, finibus sed nisi in, porttitor hendrerit lorem. Fusce vehicula ante enim. Pellentesque et consequat metus. In neque eros, euismod vitae lectus sed, ornare rutrum dolor. Nulla malesuada, ante at fringilla suscipit, sem leo sollicitudin orci, mattis iaculis velit metus sit amet dui. Cras malesuada luctus risus, vel egestas neque lacinia ut. Morbi non convallis ligula. Nunc orci diam, elementum eu tincidunt at, lacinia eget diam. Nunc volutpat ante non diam semper pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse mollis ipsum non mi pulvinar ultricies. Cras tincidunt metus sit amet urna mollis, sit amet vulputate arcu placerat. In accumsan interdum purus eget tempus. Maecenas sit amet dolor lobortis, tincidunt elit nec, sagittis purus. Phasellus vestibulum interdum efficitur. Mauris id sem sollicitudin, ornare metus eget, semper arcu. Etiam vestibulum tincidunt ante nec fermentum. Mauris iaculis leo ac luctus tempus. Duis dapibus mollis neque. Sed efficitur ipsum ac metus sodales maximus. Ut feugiat tortor in egestas tincidunt. Nunc a fringilla enim. Aenean a odio ante. Suspendisse aliquet finibus lacinia. Mauris fringilla ornare odio. In eget blandit tortor. Cras id ultrices magna. Nunc feugiat ex sed sagittis accumsan. Aenean nec efficitur massa, et hendrerit magna. Aenean porta turpis varius, vestibulum libero nec, varius ipsum. Sed hendrerit nulla ut massa aliquet efficitur. Proin consectetur euismod efficitur. Sed in metus id leo blandit imperdiet. Curabitur cursus nisi et odio finibus placerat vel sed turpis. Fusce placerat ipsum eget purus egestas, vel euismod erat pharetra. Curabitur non nisl felis. Nam vestibulum purus ac metus pulvinar, in aliquam lectus sagittis. Phasellus a porttitor risus. Cras nec ante turpis. Sed convallis dui id quam venenatis, sit amet sodales nisi molestie. Phasellus vulputate eget lacus sed tempor. Curabitur id ornare nisi. Fusce a nisl quis purus tempus tempus in eget felis. Integer congue tellus condimentum justo pellentesque finibus. In rutrum leo nec cursus tempor. In vitae sagittis neque, eget lacinia nisi. Sed quis felis cursus, pretium augue at, gravida nulla. Phasellus at ante sollicitudin, tempor nulla eu, commodo orci. Nam scelerisque sit amet erat a molestie. Donec lacinia ligula vitae erat congue, nec volutpat ante pulvinar. Ut pretium diam eget dignissim pulvinar. Quisque eget efficitur est. Aenean faucibus bibendum tempus. Nullam non enim non sapien fermentum semper. Vivamus commodo velit quis erat hendrerit congue. Suspendisse tincidunt, arcu pharetra mattis pulvinar, tellus neque rhoncus justo, eget interdum arcu magna at urna. </string>
+    <string name="title_activity_scrolling">Hi I\'m Yathannsh</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+
+
+    <string name="text_1">"<b>Computer Science\n</b>"</string>
+        <string name="text_01">"
+    "I am passionate about code, and like building things using it. The strong liking for computer
+            science drived me to create the first ever club for Tech enthusiasts in the state of
+            Rajasthan: Turing Fraternity, which I currently head as its President.\n"</string>
+    <string name="text_2">"<b>Oratory\n</b>"</string>
+    <string name="text_02">
+    "Debating and MUNnig are my strong forte. I am a national level debator and also reside as the President of my school's MUN Club\n"
+    </string>
+        <string name="text_3">"<b>Basketball\n</b>"</string>
+    <string name="text_03">
+    "I am interested in the sport of Basketball. I represent my state Rajasthan at U-19 Indian Nationals and also participate in various intra-schooltournaments\n"
+    </string>
+            <string name="text_4">"<b>Cycling\n</b>"</string>
+    <string name="text_04">
+    "My Sundays are spent cycling around the city of Jaipur. The hilly terrain in the city makes it a cyclist's delight. I am also a part of Jaipur Cyclist and often take part in eco-drives to raise awarness about various plaguing issues.\n"
+    </string>
+
+</resources>

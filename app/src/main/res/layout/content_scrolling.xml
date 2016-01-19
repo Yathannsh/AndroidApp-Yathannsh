@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.yathannsh.yathannsh_kulshrestha_androidapp.ScrollingActivity"
+    tools:showIn="@layout/activity_scrolling"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:background="#ffffff">
+        <!--Start1-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="50px"
+            android:src="@drawable/image_2" />
+
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_1"
+            android:id="@+id/textView2"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_01"
+            android:id="@+id/textView2"
+            android:gravity="left"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+
+        <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+
+     <!--END1-->
+    <!--Start2-->
+        <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="50px"
+        android:src="@drawable/image_1" />
+
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_2"
+            android:id="@+id/textView4"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_02"
+            android:id="@+id/textView44"
+            android:gravity="left"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"/>
+
+        <!--END2-->
+        <!--Start3-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_4"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="50px"
+            android:src="@drawable/image_4" />
+
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_3"
+            android:id="@+id/textView3"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_03"
+            android:id="@+id/textView03"
+            android:gravity="left"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"/>
+        <!--END3-->
+        <!--Start4-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_3"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="50px"
+            android:src="@drawable/image_3" />
+
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_4"
+            android:id="@+id/textView03"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+        <TextView
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:text="@string/text_04"
+            android:id="@+id/textView023"
+            android:gravity="left"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10px" />
+
+        <!--END4-->
+
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>
